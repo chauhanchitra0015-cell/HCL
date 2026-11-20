@@ -44,7 +44,7 @@ TIER_B_MIN_SCORE = 70.0
 # Academic & System Metadata
 STUDENT_NAME = "Chitra Chauhan"
 STUDENT_ROLL = "2500320140043"
-STUDENT_PROGRAM = "MCA 2nd Year (Data Analytics)"
+STUDENT_PROGRAM = "MCA 2nd Year, 3rd Semester (Batch 2025–2027)"
 MENTOR_NAME = "Prof. Kalpana Dwivedi"
 INSTITUTION = "ABES Engineering College, Ghaziabad"
 APP_TITLE = "Supplier Performance Analysis & Procurement Intelligence"

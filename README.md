@@ -9,7 +9,7 @@
 [![Status](https://img.shields.io/badge/Release-v1.0.0%20Production-success.svg)]()
 
 > **ABES Engineering College • Department of Computer Applications**  
-> **Master of Computer Applications (MCA) — Capstone Project (2024–2026)**  
+> **Master of Computer Applications (MCA) — Capstone Project (3rd Semester, Batch 2025–2027)**  
 > **Learner:** Chitra Chauhan (University Roll No: `2500320140043`)  
 > **Project Mentor:** Prof. Kalpana Dwivedi  
 

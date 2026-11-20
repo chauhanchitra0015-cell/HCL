@@ -36,7 +36,7 @@ with col_stu:
     * **Project Mentor:** {MENTOR_NAME}
     * **Department:** Department of Computer Applications
     * **Institution:** {INSTITUTION}
-    * **Course:** MCA Major Capstone Project (2024–2026 Batch)
+    * **Course:** MCA Major Capstone Project (3rd Semester, Batch 2025–2027)
     * **Specialization:** Enterprise Data Analytics & Decision Support Systems
     """)
 

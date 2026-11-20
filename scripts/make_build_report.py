@@ -103,7 +103,7 @@ def build_word_document():
     p_sub = doc.add_paragraph()
     p_sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p_sub.paragraph_format.space_after = Pt(6)
-    r_sub = p_sub.add_run("Master of Computer Applications (MCA) — Major Project (2024–2026)\n"
+    r_sub = p_sub.add_run("Master of Computer Applications (MCA) — Major Project (3rd Semester, Batch 2025–2027)\n"
                           "STEP 15: APPLICATION BUILD, AUTOMATED TESTING & VERIFICATION REPORT")
     r_sub.bold = True
     r_sub.font.size = Pt(12)

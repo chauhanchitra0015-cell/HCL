@@ -108,7 +108,7 @@ def build_master_document():
     p_affil.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p_affil.paragraph_format.space_after = Pt(12)
     r_affil = p_affil.add_run("Affiliated to Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow\n"
-                              "Master of Computer Applications (MCA) — Major Capstone Project (2024–2026)")
+                              "Master of Computer Applications (MCA) — Major Capstone Project (3rd Semester, Batch 2025–2027)")
     r_affil.font.size = Pt(10)
     r_affil.font.color.rgb = RGBColor(0x4A, 0x55, 0x68)
 
@@ -134,7 +134,7 @@ def build_master_document():
         ("University Roll Number", "2500320140043"),
         ("Degree & Program", "Master of Computer Applications (MCA)"),
         ("Academic Specialization", "Enterprise Data Analytics & Decision Support Systems"),
-        ("Academic Year / Semester", "2nd Year / 4th Semester (2024–2026 Batch)"),
+        ("Academic Year / Semester", "2nd Year / 3rd Semester (Batch 2025–2027)"),
         ("Project Mentor / Supervisor", "Prof. Kalpana Dwivedi (Assistant Professor, Dept. of Computer Applications)"),
         ("Institutional Department", "Department of Computer Applications, ABES Engineering College"),
         ("Institutional Affiliation", "Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow, U.P."),
@@ -542,7 +542,7 @@ def build_master_document():
 
     doc.add_paragraph(
         "• Student Profile: Chitra Chauhan (University Roll No: 2500320140043), enrolled in the Master of Computer Applications (MCA) "
-        "program at ABES Engineering College, Ghaziabad (affiliated with Dr. A.P.J. Abdul Kalam Technical University, Lucknow).\n"
+        "program at ABES Engineering College, Ghaziabad (affiliated with Dr. A.P.J. Abdul Kalam Technical University, Lucknow), 2nd Year, 3rd Semester (Batch 2025–2027).\n"
         "• Academic Specialization: Data Analytics, Supply Chain Management (SCM) Systems, and Enterprise Decision Support.\n"
         "• Project Domain Selection: Supply Chain Management was selected due to its rich blend of relational data integrity, "
         "non-parametric statistical distributions (e.g., right-skewed lead times), multi-criteria decision modeling (CPI), and high "
@@ -591,17 +591,24 @@ def build_master_document():
             tbl_ai.cell(i+1, j).paragraphs[0].text = val
     style_table(tbl_ai)
 
-    # Save to both standard names
+    # Save to both standard names with defensive fallback for file locks
     out_dir = "docs"
     os.makedirs(out_dir, exist_ok=True)
     
     path1 = os.path.join(out_dir, "17_Project_Document.docx")
     path2 = os.path.join(out_dir, "2500320140043_Project_Document.docx")
     
-    doc.save(path1)
-    doc.save(path2)
-    print(f"Successfully generated: {path1}")
-    print(f"Successfully generated: {path2}")
+    saved_paths = []
+    for target_path, fallback_name in [(path1, "17_Project_Document_Updated.docx"), (path2, "2500320140043_Project_Document_Updated.docx")]:
+        try:
+            doc.save(target_path)
+            saved_paths.append(target_path)
+            print(f"Successfully generated: {target_path}")
+        except PermissionError:
+            fb_path = os.path.join(out_dir, fallback_name)
+            doc.save(fb_path)
+            saved_paths.append(fb_path)
+            print(f"File locked by viewer; saved defensive copy: {fb_path}")
 
 if __name__ == "__main__":
     build_master_document()
