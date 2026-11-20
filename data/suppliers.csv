@@ -1,0 +1,26 @@
+supplier_id,supplier_name,supplier_country,supplier_city,contact_email,supplier_tier,rating_score,contract_start_date,contract_end_date,status
+SUP-001,Bharat Precision Forgings Ltd,India,Pune,procurement@bharatprecis.co.in,Tier A,96.5,2023-01-01,2025-12-31,Active
+SUP-002,Kaveri Industrial Sensors Pvt Ltd,India,Bengaluru,procurement@kaveriindust.co.in,Tier A,95.2,2023-01-01,2025-12-31,Active
+SUP-003,Sahyadri Heavy Castings Ltd,India,Coimbatore,procurement@sahyadriheav.co.in,Tier A,94.8,2023-01-01,2025-12-31,Active
+SUP-004,Godavari Hydraulic Works,India,Hyderabad,procurement@godavarihydr.co.in,Tier A,93.6,2023-01-01,2025-12-31,Active
+SUP-005,Narmada Precision Fasteners Ltd,India,Faridabad,procurement@narmadapreci.co.in,Tier A,95.9,2023-01-01,2025-12-31,Active
+SUP-006,Vindhya Engineered Polymers,India,Vadodara,procurement@vindhyaengin.co.in,Tier A,92.8,2023-01-01,2025-12-31,Active
+SUP-007,Deccan Advanced Tooling Corp,India,Chennai,procurement@deccanadvanc.co.in,Tier A,94.1,2023-01-01,2025-12-31,Active
+SUP-008,Himalaya Alloy Steels Ltd,India,Jamshedpur,procurement@himalayaallo.co.in,Tier A,93.4,2023-01-01,2025-12-31,Active
+SUP-009,Chola Machining Systems,India,Coimbatore,procurement@cholamachini.co.in,Tier B,84.5,2023-01-01,2025-12-31,Active
+SUP-010,Maurya Fluid Dynamics Pvt Ltd,India,Ahmedabad,procurement@mauryafluidd.co.in,Tier B,82.3,2023-01-01,2025-12-31,Active
+SUP-011,Konkan Micro-Components Ltd,India,Nashik,procurement@konkanmicroc.co.in,Tier B,81.9,2023-01-01,2025-12-31,Active
+SUP-012,Satpura Industrial Hardware,India,Indore,procurement@satpuraindus.co.in,Tier B,79.4,2023-01-01,2025-12-31,Conditional
+SUP-013,Aravalli Rubber & Gaskets,India,Gurugram,procurement@aravallirubb.co.in,Tier B,83.1,2023-01-01,2025-12-31,Active
+SUP-014,Kalinga Metal Extrusions,India,Jamshedpur,procurement@kalingametal.co.in,Tier B,78.5,2023-01-01,2025-12-31,Conditional
+SUP-015,Tapti Engineering Solutions,India,Surat,procurement@taptienginee.co.in,Tier B,80.2,2023-01-01,2025-12-31,Active
+SUP-016,Marwar Fasteners & Springs,India,Rajkot,procurement@marwarfasten.co.in,Tier B,77.8,2023-01-01,2025-12-31,Conditional
+SUP-017,Malabar Valves & Actuators,India,Bengaluru,procurement@malabarvalve.co.in,Tier B,82.0,2023-01-01,2025-12-31,Active
+SUP-018,Bundelkhand Forging Hub,India,Ghaziabad,procurement@bundelkhandf.co.in,Tier B,76.5,2023-01-01,2025-12-31,Conditional
+SUP-019,Coromandel Foundry Craft,India,Chennai,procurement@coromandelfo.co.in,Tier B,81.2,2023-01-01,2025-12-31,Active
+SUP-020,Vidarbha Electro-Pneumatics,India,Pune,procurement@vidarbhaelec.co.in,Tier B,79.8,2023-01-01,2025-12-31,Active
+SUP-021,Ananya Industrial Supplies,India,Faridabad,procurement@ananyaindust.co.in,Tier C,64.2,2023-01-01,2024-12-31,Conditional
+SUP-022,Durgapur Basic Castings,India,Jamshedpur,procurement@durgapurbasi.co.in,Tier C,61.5,2023-01-01,2024-12-31,Conditional
+SUP-023,Gomti Polymer Packaging,India,Ghaziabad,procurement@gomtipolymer.co.in,Tier C,58.7,2023-01-01,2024-12-31,Suspended
+SUP-024,Rohini Sheet Metal Works,India,Gurugram,procurement@rohinisheetm.co.in,Tier C,63.8,2023-01-01,2024-12-31,Conditional
+SUP-025,Shivalik Hardware Fabricators,India,Indore,procurement@shivalikhard.co.in,Tier C,56.4,2023-01-01,2024-12-31,Suspended

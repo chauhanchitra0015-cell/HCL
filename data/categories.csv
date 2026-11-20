@@ -1,0 +1,7 @@
+category_id,category_name,spend_tier,risk_weight,description
+CAT-01,Electronics & Sensors,Strategic,0.85,"High-precision microcontrollers, IoT sensors, wiring harnesses, and PCB assemblies."
+CAT-02,Mechanical Castings,Bottleneck,0.9,"Heavy ductile iron castings, engine blocks, transmission housings, and die-cast alloys."
+CAT-03,Hydraulics & Pneumatics,Strategic,0.75,"Hydraulic cylinders, directional control valves, fluid hoses, and pressure accumulators."
+CAT-04,Fasteners & Hardware,Routine,0.3,"High-tensile Grade 8.8 bolts, locknuts, hex screws, washers, and industrial rivets."
+CAT-05,Polymers & Packaging,Leverage,0.45,"Molded polymer gaskets, protective corrugated containers, pallets, and shrink wraps."
+CAT-06,Raw Metals & Alloys,Leverage,0.8,"Cold-rolled steel coils, extruded aluminum profiles, brass rods, and structural bars."

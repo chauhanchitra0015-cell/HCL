@@ -1,0 +1,41 @@
+product_id,product_name,category_id,unit_of_measure,baseline_contract_price,standard_lead_time_days,target_defect_ppm
+PRD-001,Opto-Electronic Proximity Sensor 24V,CAT-01,Pieces,450.0,14,500
+PRD-002,Piezoelectric Pressure Transducer 100bar,CAT-01,Pieces,1250.0,21,400
+PRD-003,Microcontroller Control Board PCB-X4,CAT-01,Pieces,2800.0,28,600
+PRD-004,Industrial Thermocouple Sensor Type-K,CAT-01,Pieces,320.0,10,300
+PRD-005,CAN-Bus Heavy Harness Assembly 5m,CAT-01,Sets,1100.0,18,450
+PRD-006,Rotary Optical Shaft Encoder 1024PPR,CAT-01,Pieces,1850.0,25,350
+PRD-007,High-Voltage Switching Contactor 60A,CAT-01,Pieces,780.0,12,550
+PRD-008,Heavy Ductile Iron Engine Housing GGG-40,CAT-02,Pieces,4800.0,35,1200
+PRD-009,Hydraulic Transmission Gearbox Casing,CAT-02,Pieces,6200.0,42,1400
+PRD-010,Cast Steel Flywheel Blank 350mm,CAT-02,Pieces,2400.0,28,900
+PRD-011,Cast Iron Exhaust Manifold Adapter,CAT-02,Pieces,1450.0,21,1100
+PRD-012,Precision Aluminum Die-Cast Arm Bracket,CAT-02,Pieces,890.0,16,750
+PRD-013,Centrifugal Pump Impeller Bronze Casting,CAT-02,Pieces,3100.0,30,850
+PRD-014,High-Strength Cast Iron Brake Drum 400mm,CAT-02,Pieces,1950.0,24,950
+PRD-015,Double-Acting Hydraulic Cylinder 80x400,CAT-03,Pieces,5400.0,28,800
+PRD-016,Electro-Hydraulic Directional Valve 4/3,CAT-03,Pieces,3600.0,20,650
+PRD-017,Reinforced High-Pressure Hydraulic Hose 2m,CAT-03,Pieces,420.0,10,500
+PRD-018,Pneumatic Linear Actuator 50x200mm,CAT-03,Pieces,1750.0,14,600
+PRD-019,Hydraulic Filter Assembly 10-Micron,CAT-03,Pieces,680.0,12,400
+PRD-020,Proportional Pressure Relief Valve 250bar,CAT-03,Pieces,4200.0,24,700
+PRD-021,Rotary Hydraulic Motor 160cc/rev,CAT-03,Pieces,7800.0,32,750
+PRD-022,High-Tensile Hex Head Bolt M12x60 Gr8.8,CAT-04,Boxes,180.0,7,250
+PRD-023,Nyloc Self-Locking Nut M12 Pack-100,CAT-04,Boxes,95.0,5,200
+PRD-024,Socket Head Cap Screw M8x40 Gr10.9,CAT-04,Boxes,140.0,7,220
+PRD-025,Heavy Spring Lock Washer M12 Pack-500,CAT-04,Boxes,75.0,5,150
+PRD-026,Structural Blind Rivet 4.8x12mm Pack-500,CAT-04,Boxes,110.0,6,180
+PRD-027,Hardened Flat Steel Washer M16 Pack-200,CAT-04,Boxes,85.0,5,120
+PRD-028,Precision Dowel Pin 10x50mm Pack-50,CAT-04,Boxes,160.0,8,300
+PRD-029,Molded Nitrile O-Ring Seal Kit 200pc,CAT-05,Sets,320.0,8,450
+PRD-030,High-Density Polyethylene Fluid Reservoir,CAT-05,Pieces,480.0,14,600
+PRD-031,Heavy-Duty Corrugated Shipping Box 50x50,CAT-05,Boxes,65.0,4,300
+PRD-032,Vibration Isolation Rubber Damper Mount,CAT-05,Pieces,185.0,9,350
+PRD-033,Stretch Film Industrial Pallet Wrap 500m,CAT-05,Boxes,240.0,6,200
+PRD-034,Polyurethane Timing Belt 25mm x 1200mm,CAT-05,Pieces,520.0,12,400
+PRD-035,Cold-Rolled Carbon Steel Sheet 2.5mm,CAT-06,Kg,85.0,21,600
+PRD-036,Extruded Aluminum T-Slot Profile 40x40,CAT-06,Meters,310.0,15,500
+PRD-037,Alloy Steel Round Bar 50mm EN-19,CAT-06,Kg,120.0,24,700
+PRD-038,Phosphor Bronze Bushing Hollow Bar 40mm,CAT-06,Kg,480.0,28,650
+PRD-039,Structural Steel Channel Section 100x50,CAT-06,Meters,550.0,20,550
+PRD-040,Stainless Steel Seamless Tube 25mm 304L,CAT-06,Meters,720.0,26,600
