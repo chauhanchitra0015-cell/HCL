@@ -45,7 +45,7 @@ meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
 meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Student Details', 'Chitra Chauhan | Roll No: 2500320140043 | MCA 2nd Year (Data Analytics), ABES'),
-    ('Project Mentor', 'Prof. Kalpana Dwivedi'),
+    ('Project Mentor', 'Mr. Dinesh'),
     ('Technology Stack', 'Python 3.11, Streamlit, Plotly, SQLite, pytest, Streamlit Community Cloud'),
     ('Document Reference', 'docs/02_HMW_Statements.docx | Derived from Step 1 Project Understanding')
 ]

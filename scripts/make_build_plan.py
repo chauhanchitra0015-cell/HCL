@@ -15,7 +15,7 @@ build_plan_md_content = """# BUILD PLAN: Supplier Performance Analysis & Procure
 
 **Project:** Supplier Performance Analysis & Procurement Intelligence System  
 **Learner:** Chitra Chauhan (Roll No: 2500320140043, MCA 2nd Year DA, ABES Engineering College)  
-**Mentor:** Prof. Kalpana Dwivedi  
+**Mentor:** Mr. Dinesh  
 **Target Platform:** Streamlit Community Cloud (Python 3.12, SQLite, Plotly, Tailwind UI, pytest)  
 **Status:** Step 14 Implementation Blueprint (Input for Step 15 Build)
 
@@ -23,7 +23,7 @@ build_plan_md_content = """# BUILD PLAN: Supplier Performance Analysis & Procure
 
 ## 1. Project Summary & Artifact Repository
 
-1. **Student & Academic Supervision:** Engineered by Chitra Chauhan (Roll 2500320140043), MCA 2nd Year (Data Analytics), ABES EC, guided by Project Mentor Prof. Kalpana Dwivedi.
+1. **Student & Academic Supervision:** Engineered by Chitra Chauhan (Roll 2500320140043), MCA 2nd Year (Data Analytics), ABES EC, guided by Project Mentor Mr. Dinesh.
 2. **Domain & Problem Statement:** Enterprise supply chain analytics platform resolving procurement blindspots, chronic vendor delivery delays, component scrap rates, and unapproved invoice price creep.
 3. **Core Technical Stack:** Python 3.12, Streamlit Multipage, Plotly Interactive Visualizations, Tailwind CSS UI components (via iframe CDN), and embedded SQLite 3 (`data/app.db`).
 4. **Requirements Rigor:** 100% bidirectionally traced from 10 Operational Questions (OQ-01..10) to 12 Business Requirements (BR-01..12) and 12 Technical Features (FR-01..12).
@@ -198,7 +198,7 @@ supplier-performance-analysis/
 * **Files:** `pages/7_ℹ️_About.py`
 * **Linked US / FR:** Documentation | All Personas
 * **AI Execution Prompt:**
-  `"Build pages/7_ℹ️_About.py. Render ABES MCA Capstone metadata (Chitra Chauhan, Roll 2500320140043, Mentor Prof. Kalpana Dwivedi), problem statement summary, Mermaid architecture diagram, and methodology reference."`
+  `"Build pages/7_ℹ️_About.py. Render ABES MCA Capstone metadata (Chitra Chauhan, Roll 2500320140043, Mentor Mr. Dinesh), problem statement summary, Mermaid architecture diagram, and methodology reference."`
 * **Verification Method:** Navigate to page and confirm all markdown elements render cleanly.
 * **Tests to Pass:** UI smoke test.
 
@@ -318,7 +318,7 @@ meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
 meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Student Details', 'Chitra Chauhan | Roll No: 2500320140043 | MCA 2nd Year (Data Analytics), ABES'),
-    ('Project Mentor', 'Prof. Kalpana Dwivedi (Department of Computer Applications, ABES EC)'),
+    ('Project Mentor', 'Mr. Dinesh (Department of Computer Applications, ABES EC)'),
     ('Build Scope', '14 Structured Engineering Tasks (BUILD-01 through BUILD-14)'),
     ('AI Input Artifact', 'BUILD_PLAN.md (Exact Execution Blueprint for Step 15 Build)'),
     ('Target Architecture', 'Streamlit Multipage, Tailwind UI, SQLite, Plotly, pytest')
@@ -342,7 +342,7 @@ h1.paragraph_format.space_before = Pt(12)
 h1.paragraph_format.space_after = Pt(6)
 
 summary_points = [
-    '1. Academic Context: Developed by Chitra Chauhan (Roll 2500320140043), MCA 2nd Year Data Analytics, ABES EC under Mentor Prof. Kalpana Dwivedi.',
+    '1. Academic Context: Developed by Chitra Chauhan (Roll 2500320140043), MCA 2nd Year Data Analytics, ABES EC under Mentor Mr. Dinesh.',
     '2. Problem Statement: Resolves enterprise procurement blindspots, chronic vendor delivery delays, component scrap rates, and unapproved invoice price creep.',
     '3. Technology Stack: Python 3.12, Streamlit Multipage, Plotly Interactive Visualizations, Tailwind CSS UI components, and embedded SQLite 3 (data/app.db).',
     '4. Requirements Rigor: 100% bidirectionally traced from 10 Operational Questions (OQ-01..10) to 12 Business Requirements (BR-01..12) and 12 Features (FR-01..12).',

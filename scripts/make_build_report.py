@@ -115,7 +115,7 @@ def build_word_document():
     r_meta = p_meta.add_run(
         "Project: Supplier Performance Analysis & Procurement Intelligence System\n"
         "Learner: Chitra Chauhan (University Roll No: 2500320140043) | Specialization: Data Analytics\n"
-        "Project Mentor: Prof. Kalpana Dwivedi | Date: November 20, 2026 | Status: PRODUCTION VERIFIED (100% Pass)"
+        "Project Mentor: Mr. Dinesh | Date: November 20, 2026 | Status: PRODUCTION VERIFIED (100% Pass)"
     )
     r_meta.font.size = Pt(9.5)
     r_meta.font.italic = True
@@ -163,7 +163,7 @@ def build_word_document():
         ("BUILD-09", "pages/4_💰_Cost_Variance.py (UI-05)", "Cost Variance & Financial Audit: Spend-at-Risk gauge, PPV histogram, unapproved price creep table.", "COMPLETED", "TC-F-12, 13"),
         ("BUILD-10", "pages/5_🔍_Data_Explorer.py (UI-06)", "42-column analytical repository: text search, column filtering, CSV and Excel (.xlsx) export buttons.", "COMPLETED", "TC-F-16"),
         ("BUILD-11", "pages/6_🛠️_Data_Quality.py (UI-07)", "Database diagnostics: PRAGMA FK check, integrity check, row counts, and built-in pattern verification.", "COMPLETED", "TC-T-01..04"),
-        ("BUILD-12", "pages/7_ℹ️_About.py (UI-08)", "Academic attribution (Chitra Chauhan, Roll 2500320140043, Mentor Prof. Kalpana Dwivedi), architecture diagram.", "COMPLETED", "UI Verification"),
+        ("BUILD-12", "pages/7_ℹ️_About.py (UI-08)", "Academic attribution (Chitra Chauhan, Roll 2500320140043, Mentor Mr. Dinesh), architecture diagram.", "COMPLETED", "UI Verification"),
         ("BUILD-13", "tests/test_*.py", "Full automated pytest execution across all 16 tests; latency SLA benchmark confirmed at < 0.1s.", "COMPLETED", "16/16 Passed"),
         ("BUILD-14", "README.md, .gitignore", "Production GitHub documentation, architecture Mermaid diagram, quickstart guide, and DoD sign-off.", "COMPLETED", "Repo Verification")
     ]
@@ -219,7 +219,7 @@ def build_word_document():
         ("pages/4_💰_Cost_Variance.py", "UI-05", "Cost Variance Audit", "Spend-at-Risk indicator gauge (10% target), PPV percentage distribution histogram, and line-item price creep audit table highlighting deliveries exceeding contracted unit price."),
         ("pages/5_🔍_Data_Explorer.py", "UI-06", "Data Explorer", "Dynamic 42-column analytical repository with quick text search, column multiselect, formatted table view, and single-click CSV and Excel (.xlsx) export buttons."),
         ("pages/6_🛠️_Data_Quality.py", "UI-07", "Data Diagnostics", "Relational entity row counts, PRAGMA foreign_key_check results, missing value imputation log, and verification of 5 built-in synthetic industrial patterns."),
-        ("pages/7_ℹ️_About.py", "UI-08", "About & Architecture", "Student attribution (Chitra Chauhan, Roll 2500320140043), project mentor (Prof. Kalpana Dwivedi), Mermaid system architecture diagram, and mathematical formulations.")
+        ("pages/7_ℹ️_About.py", "UI-08", "About & Architecture", "Student attribution (Chitra Chauhan, Roll 2500320140043), project mentor (Mr. Dinesh), Mermaid system architecture diagram, and mathematical formulations.")
     ]
     
     tbl_scr = doc.add_table(rows=len(screens)+1, cols=4)

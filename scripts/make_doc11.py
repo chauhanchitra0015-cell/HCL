@@ -47,7 +47,7 @@ meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
 meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Student Details', 'Chitra Chauhan | Roll No: 2500320140043 | MCA 2nd Year (Data Analytics), ABES'),
-    ('Academic Mentor', 'Prof. Kalpana Dwivedi (Department of Computer Applications, ABES EC)'),
+    ('Academic Mentor', 'Mr. Dinesh (Department of Computer Applications, ABES EC)'),
     ('Total User Stories', '16 User Stories across 5 Agile Epics (40 Total Story Points)'),
     ('Velocity Benchmark', '4 Story Points / Day (Buildable in under half a day per story)'),
     ('Traceability Mapping', '100% Mapped to OQ-01..10, BR-01..12, and FR-01..12 in RTM')

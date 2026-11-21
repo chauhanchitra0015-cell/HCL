@@ -2,7 +2,7 @@
 SUPPLIER PERFORMANCE ANALYSIS — APPLICATION CONFIGURATION
 Module: src/config.py
 Author: Chitra Chauhan (Roll No: 2500320140043)
-Mentor: Prof. Kalpana Dwivedi
+Mentor: Mr. Dinesh
 Institution: ABES Engineering College
 """
 
@@ -45,7 +45,7 @@ TIER_B_MIN_SCORE = 70.0
 STUDENT_NAME = "Chitra Chauhan"
 STUDENT_ROLL = "2500320140043"
 STUDENT_PROGRAM = "MCA 2nd Year, 3rd Semester (Batch 2025–2027)"
-MENTOR_NAME = "Prof. Kalpana Dwivedi"
+MENTOR_NAME = "Mr. Dinesh"
 INSTITUTION = "ABES Engineering College, Ghaziabad"
 APP_TITLE = "Supplier Performance Analysis & Procurement Intelligence"
 APP_SUBTITLE = "Enterprise Decision-Support Platform for Vendor Evaluation, Risk Mitigation & SCM Analytics"

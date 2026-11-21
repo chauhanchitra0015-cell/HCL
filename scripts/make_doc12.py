@@ -47,7 +47,7 @@ meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
 meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Student Details', 'Chitra Chauhan | Roll No: 2500320140043 | MCA 2nd Year (Data Analytics), ABES'),
-    ('Project Mentor', 'Prof. Kalpana Dwivedi (Department of Computer Applications, ABES EC)'),
+    ('Project Mentor', 'Mr. Dinesh (Department of Computer Applications, ABES EC)'),
     ('UI Tech Stack', 'Streamlit Multipage, Tailwind CSS (via components.html CDN), Plotly White'),
     ('Screen Specifications', '8 Distinct Multi-Page Screens (UI-01 through UI-08)'),
     ('Component Module', 'src/ui.py (Reusable Tailwind Cards, Headers, and Insight Callouts)')

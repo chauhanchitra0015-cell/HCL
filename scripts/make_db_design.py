@@ -77,7 +77,7 @@ ws_ov.row_dimensions[1].height = 32
 meta_rows = [
     ("Project Title", "Supplier Performance Analysis & Procurement Intelligence System"),
     ("Learner & Roll", "Chitra Chauhan | Roll No: 2500320140043 | MCA 2nd Year (Data Analytics), ABES"),
-    ("Academic Mentor", "Prof. Kalpana Dwivedi (Department of Computer Applications, ABES EC)"),
+    ("Academic Mentor", "Mr. Dinesh (Department of Computer Applications, ABES EC)"),
     ("Database Engine", "SQLite 3 (Embedded Relational Database in data/app.db)"),
     ("Schema Pattern", "Normalized 3NF Relational Star/Snowflake Schema (3 Master Dimensions, 2 Fact Tables)"),
     ("Analytical View", "v_supplier_performance_analysis (41 fully joined analytical attributes)")

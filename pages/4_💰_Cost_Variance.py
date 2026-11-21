@@ -1,7 +1,7 @@
 """
 SUPPLIER PERFORMANCE ANALYSIS — COST VARIANCE & SPEND-AT-RISK (UI-05)
 Author: Chitra Chauhan (Roll No: 2500320140043, MCA 2nd Year DA, ABES EC)
-Mentor: Prof. Kalpana Dwivedi
+Mentor: Mr. Dinesh
 """
 
 import streamlit as st

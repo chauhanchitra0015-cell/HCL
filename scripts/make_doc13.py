@@ -47,7 +47,7 @@ meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
 meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Lead Author & Role', 'Chitra Chauhan | Roll No: 2500320140043 | Quality Assurance & Software Engineer'),
-    ('Academic Supervisor', 'Prof. Kalpana Dwivedi (Dept. of Computer Applications, ABES EC)'),
+    ('Academic Supervisor', 'Mr. Dinesh (Dept. of Computer Applications, ABES EC)'),
     ('Test Frameworks', 'Python pytest 9.2, pytest-cov, Streamlit AppTest headless harness'),
     ('Functional Test Coverage', '16 Comprehensive Functional Test Cases (TC-F-01 through TC-F-16)'),
     ('Technical Test Coverage', '14 Automated Pytest Unit & Integration Tests (TC-T-01 through TC-T-14)')

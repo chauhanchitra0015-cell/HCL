@@ -46,7 +46,7 @@ meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
 meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Student Details', 'Chitra Chauhan | Roll No: 2500320140043 | MCA 2nd Year (Data Analytics), ABES'),
-    ('Project Mentor', 'Prof. Kalpana Dwivedi'),
+    ('Project Mentor', 'Mr. Dinesh'),
     ('Technology Stack', 'Python 3.11, Streamlit, Plotly, SQLite, pytest, Streamlit Community Cloud'),
     ('Document Version & Date', 'Version 1.0 (Final) | Academic Year 2024-2026')
 ]
@@ -316,7 +316,7 @@ sc_data = [
     ('SC-02', 'Query & Render Performance', 'Dashboard cold start < 3.0s; interactive filter recalculation latency < 1.5s for 3,000+ records.', 'Execution profiling using Python time benchmarking.'),
     ('SC-03', 'Automated Test Pass Rate', '100% test pass rate across all unit and integration tests with >= 90% statement coverage.', 'Automated execution of pytest with coverage reporting.'),
     ('SC-04', 'Cloud Deployment Reliability', '100% availability on Streamlit Community Cloud with zero unhandled exceptions.', 'Live URL access verification and smoke testing.'),
-    ('SC-05', 'Academic Evaluation Standards', 'Formal acceptance of the project document, source repository, and slide deck by academic mentor.', 'Evaluation review by Prof. Kalpana Dwivedi and ABES MCA examination panel.')
+    ('SC-05', 'Academic Evaluation Standards', 'Formal acceptance of the project document, source repository, and slide deck by academic mentor.', 'Evaluation review by Mr. Dinesh and ABES MCA examination panel.')
 ]
 
 for i, row in enumerate(sc_data):

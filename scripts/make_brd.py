@@ -50,7 +50,7 @@ ctrl_data = [
     ('Document Title', 'Business Requirements Document (BRD) - Supplier Performance Analysis'),
     ('Document Version', 'Version 1.0 (Formal Baseline)'),
     ('Author / Lead Analyst', 'Chitra Chauhan | Roll No: 2500320140043 | MCA 2nd Year (Data Analytics), ABES'),
-    ('Academic Supervisor / Mentor', 'Prof. Kalpana Dwivedi (Department of Computer Applications, ABES EC)'),
+    ('Academic Supervisor / Mentor', 'Mr. Dinesh (Department of Computer Applications, ABES EC)'),
     ('Document Classification', 'Academic & Industry Applied Capstone Engineering Deliverable'),
     ('Creation & Baseline Date', 'Academic Session 2024-2026 | Document Date: Current Baseline')
 ]
@@ -445,7 +445,7 @@ for j, h in enumerate(sign_headers):
 
 sign_data = [
     ('Lead Analyst / Author', 'Chitra Chauhan', 'MCA Student (Data Analytics), ABES EC', '[Signed Electronically]', 'Current Session'),
-    ('Academic Mentor', 'Prof. Kalpana Dwivedi', 'Assistant Professor, Dept of CA, ABES EC', '[Approved for Baseline]', 'Current Session'),
+    ('Academic Mentor', 'Mr. Dinesh', 'Assistant Professor, Dept of CA, ABES EC', '[Approved for Baseline]', 'Current Session'),
     ('Department Reviewer', 'Head of Department / Examiner', 'Dept of Computer Applications, ABES EC', '[Pending Final Viva]', 'Scheduled Viva Date')
 ]
 for i, row in enumerate(sign_data):

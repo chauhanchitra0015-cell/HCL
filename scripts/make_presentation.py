@@ -149,7 +149,7 @@ def build_presentation():
         ("Candidate Name:", "Chitra Chauhan", "University Roll No:", "2500320140043"),
         ("Academic Program:", "MCA 2nd Year, 3rd Semester", "Academic Batch:", "2025–2027"),
         ("Specialization:", "Enterprise Data Analytics", "Affiliated University:", "AKTU, Lucknow"),
-        ("Project Mentor:", "Prof. Kalpana Dwivedi", "Designation:", "Assistant Professor, Dept. of CA"),
+        ("Project Mentor:", "Mr. Dinesh", "Designation:", "Assistant Professor, Dept. of CA"),
         ("Deployment Target:", "Streamlit Community Cloud", "Date of Defense:", "November 20, 2026")
     ]
     for idx, (k1, v1, k2, v2) in enumerate(meta_lines):
@@ -178,7 +178,7 @@ def build_presentation():
         p.space_before = Pt(3)
 
     set_speaker_notes(s1,
-        "Good morning respected evaluation committee and my project mentor, Prof. Kalpana Dwivedi. "
+        "Good morning respected evaluation committee and my project mentor, Mr. Dinesh. "
         "I am Chitra Chauhan, Roll Number 2500320140043, pursuing my MCA 2nd Year, 3rd Semester in Data Analytics "
         "at ABES Engineering College. Today, I am proud to present my Major Capstone Project: the Supplier Performance "
         "Analysis and Procurement Intelligence System, a production-deployed data analytics platform designed to resolve "
@@ -545,7 +545,7 @@ def build_presentation():
             "Candidate: Chitra Chauhan (Roll No: 2500320140043)",
             "Degree: Master of Computer Applications (MCA) — 2nd Year, 3rd Semester",
             "Academic Batch: 2025–2027 | Specialization: Enterprise Data Analytics",
-            "Project Mentor: Prof. Kalpana Dwivedi (Assistant Professor, Dept. of Computer Applications)",
+            "Project Mentor: Mr. Dinesh (Assistant Professor, Dept. of Computer Applications)",
             "Institutional Department: Department of Computer Applications, ABES EC, Ghaziabad",
             "Affiliated University: Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow",
             "Ready for Practical Demonstration & Viva Defense Q&A!"
@@ -556,7 +556,7 @@ def build_presentation():
     set_speaker_notes(s11,
         "The application is publicly live and accessible at the URL shown on screen, synchronized directly with our GitHub repository. "
         "I invite the evaluation committee to explore the live dashboard as we proceed to the practical demonstration and viva defense. "
-        "I would like to express my deepest gratitude to my mentor, Prof. Kalpana Dwivedi, and the Department of Computer Applications "
+        "I would like to express my deepest gratitude to my mentor, Mr. Dinesh, and the Department of Computer Applications "
         "for their invaluable guidance. Thank you for your time."
     )
 

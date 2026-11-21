@@ -45,7 +45,7 @@ meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
 meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Student Details', 'Chitra Chauhan | Roll No: 2500320140043 | MCA 2nd Year (Data Analytics), ABES'),
-    ('Project Mentor', 'Prof. Kalpana Dwivedi'),
+    ('Project Mentor', 'Mr. Dinesh'),
     ('Engineering Phase', 'Step 3: Needs Analysis (BR Transformation)'),
     ('Document Reference', 'docs/03_Needs_Analysis.docx | Derived from Step 2 HMW Statements')
 ]

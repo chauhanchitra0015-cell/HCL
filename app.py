@@ -2,7 +2,7 @@
 SUPPLIER PERFORMANCE ANALYSIS & PROCUREMENT INTELLIGENCE PLATFORM
 Main Application & Executive Overview Dashboard (UI-01)
 Author: Chitra Chauhan (Roll No: 2500320140043, MCA 2nd Year DA, ABES EC)
-Mentor: Prof. Kalpana Dwivedi
+Mentor: Mr. Dinesh
 """
 
 import streamlit as st

@@ -46,7 +46,7 @@ meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Document Version', 'Version 1.0 (Formal Technical Baseline)'),
     ('Lead Author & Role', 'Chitra Chauhan | Roll No: 2500320140043 | Solution Architect & Developer'),
-    ('Academic Mentor', 'Prof. Kalpana Dwivedi (Dept. of Computer Applications, ABES EC)'),
+    ('Academic Mentor', 'Mr. Dinesh (Dept. of Computer Applications, ABES EC)'),
     ('Target Architecture', 'Python 3.12, Streamlit Multipage, Plotly, Tailwind UI, SQLite, pytest'),
     ('Deployment Target', 'Streamlit Community Cloud (Linux Container, Free Tier, Zero-Cost)')
 ]

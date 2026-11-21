@@ -135,7 +135,7 @@ def build_master_document():
         ("Degree & Program", "Master of Computer Applications (MCA)"),
         ("Academic Specialization", "Enterprise Data Analytics & Decision Support Systems"),
         ("Academic Year / Semester", "2nd Year / 3rd Semester (Batch 2025–2027)"),
-        ("Project Mentor / Supervisor", "Prof. Kalpana Dwivedi (Assistant Professor, Dept. of Computer Applications)"),
+        ("Project Mentor / Supervisor", "Mr. Dinesh (Assistant Professor, Dept. of Computer Applications)"),
         ("Institutional Department", "Department of Computer Applications, ABES Engineering College"),
         ("Institutional Affiliation", "Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow, U.P."),
         ("GitHub Repository", "https://github.com/2500320140043-chitra/supplier-performance-analysis"),
@@ -574,7 +574,7 @@ def build_master_document():
         ("Gemini 2.5 Advanced LLM",
          "Design-thinking opportunity framing (HMW statements), RACI governance modeling, and user story Gherkin Given/When/Then formulation.",
          "Role-based persona framing (Supply Chain Lead, Sourcing Specialist, QA Manager, Finance Controller) with strict MoSCoW prioritization.",
-         "Cross-checked against standard APICS/ASCM supply chain benchmarks; verified operational relevance with academic mentor Prof. Kalpana Dwivedi."),
+         "Cross-checked against standard APICS/ASCM supply chain benchmarks; verified operational relevance with academic mentor Mr. Dinesh."),
         
         ("Python Automated Verification Engines",
          "Deterministic mathematical formula testing, SQLite relational foreign key checks, and latency SLA profiling.",

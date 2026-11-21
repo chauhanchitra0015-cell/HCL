@@ -46,7 +46,7 @@ meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Document Version', 'Version 1.0 (Formal Engineering Baseline)'),
     ('Lead Author & Role', 'Chitra Chauhan | Roll No: 2500320140043 | Solution Architect & Developer'),
-    ('Academic Mentor', 'Prof. Kalpana Dwivedi (Dept. of Computer Applications, ABES EC)'),
+    ('Academic Mentor', 'Mr. Dinesh (Dept. of Computer Applications, ABES EC)'),
     ('Relational Architecture', '3NF Star/Snowflake Schema (3 Dimensions, 2 Fact Tables, 1 Analytical View)'),
     ('Associated Graphic', 'docs/09_ER_Diagram.png (High-Resolution Graphic Embedded Below)')
 ]

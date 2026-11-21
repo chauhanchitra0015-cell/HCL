@@ -11,7 +11,7 @@
 > **ABES Engineering College • Department of Computer Applications**  
 > **Master of Computer Applications (MCA) — Capstone Project (3rd Semester, Batch 2025–2027)**  
 > **Learner:** Chitra Chauhan (University Roll No: `2500320140043`)  
-> **Project Mentor:** Prof. Kalpana Dwivedi  
+> **Project Mentor:** Mr. Dinesh  
 
 ---
 
@@ -197,6 +197,6 @@ Open your browser at `http://localhost:8501`.
 ## 🎓 Academic Attribution & License
 
 * **Student:** Chitra Chauhan (Roll No: 2500320140043)
-* **Mentor:** Prof. Kalpana Dwivedi
+* **Mentor:** Mr. Dinesh
 * **Institution:** Department of Computer Applications, ABES Engineering College, Ghaziabad
 * **License:** Educational Academic Project under MIT License.

@@ -115,7 +115,7 @@ def build_deploy_guide():
     r_meta = p_meta.add_run(
         "Project: Supplier Performance Analysis & Procurement Intelligence System\n"
         "Learner: Chitra Chauhan (University Roll No: 2500320140043) | Specialization: Data Analytics\n"
-        "Project Mentor: Prof. Kalpana Dwivedi | Date: November 20, 2026 | Target: share.streamlit.io"
+        "Project Mentor: Mr. Dinesh | Date: November 20, 2026 | Target: share.streamlit.io"
     )
     r_meta.font.size = Pt(9.5)
     r_meta.font.italic = True
@@ -130,7 +130,7 @@ def build_deploy_guide():
         "This deployment specification establishes the definitive operational protocol for transitioning the "
         "Supplier Performance Analysis & Procurement Intelligence System from local workstation execution to public "
         "production availability on Streamlit Community Cloud (share.streamlit.io). "
-        "Engineered by Chitra Chauhan (Roll 2500320140043) under the mentorship of Prof. Kalpana Dwivedi, this platform "
+        "Engineered by Chitra Chauhan (Roll 2500320140043) under the mentorship of Mr. Dinesh, this platform "
         "serves as an enterprise decision-support engine for procurement executives, quality assurance inspectors, and financial controllers."
     )
     doc.add_paragraph(
@@ -314,7 +314,7 @@ def build_deploy_guide():
         ("UI-05 Cost Variance", "Verify Spend-at-Risk gauge displays <10% green zone and price creep audit table displays markups.", "PASSED"),
         ("UI-06 Data Explorer", "Test text search, column multiselect, and click CSV & Excel download buttons to confirm export byte streams.", "PASSED"),
         ("UI-07 Data Quality", "Confirm database diagnostics report 0 FK violations, 'ok' integrity check, and all 5 industrial patterns.", "PASSED"),
-        ("UI-08 About & Architecture", "Verify student credentials (Chitra Chauhan, Roll 2500320140043, Mentor Prof. Kalpana Dwivedi) and Mermaid diagrams.", "PASSED")
+        ("UI-08 About & Architecture", "Verify student credentials (Chitra Chauhan, Roll 2500320140043, Mentor Mr. Dinesh) and Mermaid diagrams.", "PASSED")
     ]
 
     tbl_chk = doc.add_table(rows=len(checks)+1, cols=3)

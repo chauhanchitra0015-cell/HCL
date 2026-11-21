@@ -2,7 +2,7 @@
 
 **Project:** Supplier Performance Analysis & Procurement Intelligence System  
 **Learner:** Chitra Chauhan (Roll No: 2500320140043, MCA 2nd Year DA, ABES Engineering College)  
-**Mentor:** Prof. Kalpana Dwivedi  
+**Mentor:** Mr. Dinesh  
 **Target Platform:** Streamlit Community Cloud (Python 3.12, SQLite, Plotly, Tailwind UI, pytest)  
 **Status:** Step 14 Implementation Blueprint (Input for Step 15 Build)
 
@@ -10,7 +10,7 @@
 
 ## 1. Project Summary & Artifact Repository
 
-1. **Student & Academic Supervision:** Engineered by Chitra Chauhan (Roll 2500320140043), MCA 2nd Year (Data Analytics), ABES EC, guided by Project Mentor Prof. Kalpana Dwivedi.
+1. **Student & Academic Supervision:** Engineered by Chitra Chauhan (Roll 2500320140043), MCA 2nd Year (Data Analytics), ABES EC, guided by Project Mentor Mr. Dinesh.
 2. **Domain & Problem Statement:** Enterprise supply chain analytics platform resolving procurement blindspots, chronic vendor delivery delays, component scrap rates, and unapproved invoice price creep.
 3. **Core Technical Stack:** Python 3.12, Streamlit Multipage, Plotly Interactive Visualizations, Tailwind CSS UI components (via iframe CDN), and embedded SQLite 3 (`data/app.db`).
 4. **Requirements Rigor:** 100% bidirectionally traced from 10 Operational Questions (OQ-01..10) to 12 Business Requirements (BR-01..12) and 12 Technical Features (FR-01..12).
@@ -185,7 +185,7 @@ supplier-performance-analysis/
 * **Files:** `pages/7_ℹ️_About.py`
 * **Linked US / FR:** Documentation | All Personas
 * **AI Execution Prompt:**
-  `"Build pages/7_ℹ️_About.py. Render ABES MCA Capstone metadata (Chitra Chauhan, Roll 2500320140043, Mentor Prof. Kalpana Dwivedi), problem statement summary, Mermaid architecture diagram, and methodology reference."`
+  `"Build pages/7_ℹ️_About.py. Render ABES MCA Capstone metadata (Chitra Chauhan, Roll 2500320140043, Mentor Mr. Dinesh), problem statement summary, Mermaid architecture diagram, and methodology reference."`
 * **Verification Method:** Navigate to page and confirm all markdown elements render cleanly.
 * **Tests to Pass:** UI smoke test.
 

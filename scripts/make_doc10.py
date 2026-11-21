@@ -45,7 +45,7 @@ meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
 meta_data = [
     ('Project Title', 'Supplier Performance Analysis & Procurement Intelligence System'),
     ('Student Details', 'Chitra Chauhan | Roll No: 2500320140043 | MCA 2nd Year (Data Analytics), ABES'),
-    ('Project Mentor', 'Prof. Kalpana Dwivedi (Department of Computer Applications, ABES EC)'),
+    ('Project Mentor', 'Mr. Dinesh (Department of Computer Applications, ABES EC)'),
     ('Generator Script', 'src/generate_data.py (Seed: 42, Deterministic Reproducibility)'),
     ('Database & Artifacts', 'data/app.db, data/supplier_performance_data.xlsx, data/*.csv'),
     ('Validation Status', '100% Verified: 0 Foreign Key Violations, 0 Range Breaches')

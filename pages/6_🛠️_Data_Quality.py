@@ -1,7 +1,7 @@
 """
 SUPPLIER PERFORMANCE ANALYSIS — DATA QUALITY & SYSTEM DIAGNOSTICS (UI-07)
 Author: Chitra Chauhan (Roll No: 2500320140043, MCA 2nd Year DA, ABES EC)
-Mentor: Prof. Kalpana Dwivedi
+Mentor: Mr. Dinesh
 """
 
 import streamlit as st
